@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ADD CLIENT_ID HERE -->
+    <string name="client_id">YOUR_CLIENT_ID</string>
+
+    <!-- ADD REDIRECT URL HERE -->
+    <string name="redirect_uri">my-devlab-app://auth</string>
+</resources>
